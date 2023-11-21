@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "deribit-historical-options-data"
+version = "0.1.0"
+description = ""
+authors = ["Hju Kneyck Flores <hjucode@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
